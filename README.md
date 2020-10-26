@@ -1,2 +1,2 @@
 # ct_images
-A class to wrap the TCIA API and pull collections of CT images locally.
+A Jupyter notebook with interactive widgets to easily download collections of CT Images from the TCIA image repository.
